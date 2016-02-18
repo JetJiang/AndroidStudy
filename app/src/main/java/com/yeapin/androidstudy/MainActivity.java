@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //mac修改
         setContentView(R.layout.activity_main);
+        textView = (TextView) findViewById(R.id.text);
+
     }
 }
