@@ -10,6 +10,7 @@ import java.util.Map;
 
 /**
  * Android客户端上传服务器工具类
+ * github同步
  * Created by jiangjunjie on 16/2/26.
  */
 public class HttpRequester {
